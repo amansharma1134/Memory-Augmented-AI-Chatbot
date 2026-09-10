@@ -1,0 +1,42 @@
+[
+    {
+        "user": "quit",
+        "assistant": "I don't have any information in my Knowledge Graph or Retrieved Documents about the term \"quit\". Using my general knowledge, I can tell you that \"quit\" is a verb that means to stop doing something or to give up. Is there anything else I can help you with?"
+    },
+    {
+        "user": "python -m rag.generate",
+        "assistant": "The command \"python -m rag.generate\" uses the Retrieval-Augmented Generation (RAG) tool to generate responses based on retrieved relevant documents."
+    },
+    {
+        "user": "Who is the President of India?",
+        "assistant": "I don't have the information in my Knowledge Graph or Retrieved Documents about the current President of India. I can suggest checking the official government website of India for the latest information."
+    },
+    {
+        "user": "Who invented AI?",
+        "assistant": "I couldn't find the information in the Knowledge Graph. I will check Retrieved Documents.\n\nAccording to Retrieved Documents, there is no direct answer provided for who invented AI. However, I can tell you that Artificial Intelligence (AI) was developed by several individuals and teams over time, including Alan Turing, John McCarthy, Marvin Minsky, Nathaniel Rochester, Claude Shannon, and Arthur Samuel, among others."
+    },
+    {
+        "user": "What is LLM?",
+        "assistant": "Large Language Model."
+    },
+    {
+        "user": "What is LangGraph?",
+        "assistant": "LangGraph is a framework for building stateful AI agents using LangChain."
+    },
+    {
+        "user": "What is FAISS?",
+        "assistant": "FAISS is an open-source vector similarity search library developed by Facebook AI."
+    },
+    {
+        "user": "Who invented Python?",
+        "assistant": "Python was invented by Guido van Rossum."
+    },
+    {
+        "user": "My name is Aman.",
+        "assistant": "Nice to meet you, Aman!"
+    },
+    {
+        "user": "What is my name?",
+        "assistant": "Your name is Aman."
+    }
+]
